@@ -19,7 +19,7 @@
 
 <br/><br/><br/>
 
-<img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
+<img align="right" src="https://github.com/divyanshu887/divyanshu887/blob/main/assets/tenor.gif"/>
 
 :smiley: **Sophomore and a Developer** 
 
