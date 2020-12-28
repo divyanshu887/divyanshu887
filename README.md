@@ -27,7 +27,7 @@
 
 ### About me :eyes:
 
-- :dart: Android Developer | CTF Player
+- :dart: Full Stack Enthusiast | CTF Player
 - :heart: Love to code
 - :e-mail: Ask me about anything ; [**Email**](mailto:singhdivyanshu364@gmail.com)
 <br/><br/><br/>
