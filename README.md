@@ -1,3 +1,10 @@
+### Hey 👋, I'm [Divyanshu Singh](https://github.com/divyanshu887) 👨‍💻
+<br/>
+<a href="https://twitter.com/Divyans92992619">
+  <img align="left" alt="Divyanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/divyanshu-singh-486772195/">
+  <img align="left" alt="Divyanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/divyanshu887">
   <img align="left" alt="Divyanshu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -11,7 +18,6 @@
 
 
 <br/><br/><br/>
-
 
 <img align="right" src="https://github.com/divyanshu887/divyanshu887/blob/main/assets/tenor.gif"/>
 
