@@ -27,7 +27,7 @@
 
 ### About me :eyes:
 
-- :dart: Full Stack Enthusiast | CTF Player
+- :dart: Full Stack Enthusiast | ML Enthusiast
 - :heart: Love to code
 - :e-mail: Ask me about anything ; [**Email**](mailto:singhdivyanshu364@gmail.com)
 <br/><br/><br/>
@@ -36,11 +36,11 @@
 <code><a><img height="50" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg"></a></code>
+<code><a><img height="50" src="https://s3-us-east-2.amazonaws.com/ditrainingco/wp-content/uploads/2017/02/06070251/css3-420x210-1.jpg"></a></code>
+<code><a><img height="50" src="js.png"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-
+<code><a><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-horizontal.svg"></a></code>
 <br/><br/>
 
 </br>
