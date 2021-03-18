@@ -44,7 +44,12 @@
 <code><a><img height="50" src="pythonlogo.png"></a></code>
 <br/><br/>
 
-</br>
+
+## &#x1f4c8; GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=divyanshu887)
+
+
 <a href="https://github.com/divyanshu887">
 <img style="height=10rem; width=6rem" align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=divyanshu887&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <p>       </p>
