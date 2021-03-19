@@ -44,16 +44,16 @@
 <code><a><img height="50" src="pythonlogo.png"></a></code>
 <br/><br/>
 
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshu887&theme=xcode)
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=divyanshu887)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <a href="https://github.com/divyanshu887">
 <img style="height=10rem; width=6rem" align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=divyanshu887&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <p>       </p>
-
 <a href="https://github.com/divyanshu887">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=divyanshu887&layout=compact&theme=radical" />
 </a>
+
