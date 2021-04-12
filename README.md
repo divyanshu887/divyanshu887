@@ -38,8 +38,8 @@
 <code><a><img height="50" src="css.jpeg"></a></code>
 <code><a><img height="50" src="js.png"></a></code>
 <code><a><img height="50" src="jupyter.svg"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+<code><a><img height="50" src="https://i.imgur.com/1P0s3sj.png"></a></code>
+<code><a><img height="50" src="https://i.imgur.com/zGPaKHL.jpg?1"></a></code>
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 <code><a><img height="50" src="pythonlogo.png"></a></code>
 <br/><br/>
