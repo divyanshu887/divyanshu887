@@ -48,10 +48,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887)](https://github.com/divyanshu887/github-readme-streak-stats)
 
-<a href="https://github.com/divyanshu887">
-<img style="height=10rem; width=6rem" align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=divyanshu887&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
 <p>       </p>
 <a href="https://github.com/divyanshu887">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=divyanshu887&layout=compact&theme=radical" />
