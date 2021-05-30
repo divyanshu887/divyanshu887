@@ -51,8 +51,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887)](https://github.com/divyanshu887/github-readme-streak-stats)
 
 
-<p>       </p>
+<!-- <p>       </p>
 <a href="https://github.com/divyanshu887">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=divyanshu887&layout=compact&theme=radical" />
-</a>
+</a> -->
 
