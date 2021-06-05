@@ -44,16 +44,13 @@
 <code><a><img height="50" src="pythonlogo.png"></a></code>
 <br/><br/>
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshu887&theme=xcode)
-
-## &#x1f4c8; GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887)](https://github.com/divyanshu887/github-readme-streak-stats)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyanshu887&show_icons=true" alt="divyanshu887" /> </p>
+<!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshu887&theme=xcode) -->
 
 
-<!-- <p>       </p>
-<a href="https://github.com/divyanshu887">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=divyanshu887&layout=compact&theme=radical" />
-</a> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyanshu887&show_icons=true&theme=synthwave" alt="divyanshu887" /> </p>
 
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu887&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=divyanshu887&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
