@@ -49,6 +49,7 @@
 ## &#x1f4c8; GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887)](https://github.com/divyanshu887/github-readme-streak-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyanshu887&show_icons=true" alt="divyanshu887" /> </p>
 
 
 <!-- <p>       </p>
