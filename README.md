@@ -21,7 +21,7 @@
 
 <img align="right" src="https://github.com/divyanshu887/divyanshu887/blob/main/assets/tenor.gif"/>
 
-:smiley: **Sophomore and a Developer** 
+:smiley: **A Junior and a Developer** 
 
 👨‍🎓 Pursuing B.Tech in Mineral and Metallurgical Engineering from [**IIT (ISM) Dhanbad**](https://iitism.ac.in/) 
 
