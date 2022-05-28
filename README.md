@@ -23,29 +23,36 @@
 
 :smiley: **A Junior and a Developer** 
 
-👨‍🎓 Pursuing B.Tech in Mineral and Metallurgical Engineering from [**IIT (ISM) Dhanbad**](https://iitism.ac.in/) 
+👨‍🎓 Pursuing B.Tech in Mineral and Metallurgical Engineering from [**IIT (ISM) Dhanbad**](https://www.iitism.ac.in/iitismnew/)
 
 ### About me :eyes:
 
-- :dart: Full Stack Enthusiast | ML Enthusiast
-- :heart: Love to code
+- 🚀 [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) 2022 - [AOSSIE](https://aossie.gitlab.io/)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other tech/product enthusiasts to work on cool projects
+- 📖 Current interests: Blockchain, full-stack development, amongst  many others
 - :e-mail: Ask me about anything ; [**Email**](mailto:singhdivyanshu364@gmail.com)
 <br/><br/>
 
-### Languages and Tools :computer:
-<code><a><img height="50" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a><img height="50" src="css.jpeg"></a></code>
-<code><a><img height="50" src="js.png"></a></code>
-<code><a><img height="50" src="jupyter.svg"></a></code>
-<code><a><img height="50" src="https://i.imgur.com/1P0s3sj.png"></a></code>
-<code><a><img height="50" src="https://i.imgur.com/zGPaKHL.jpg?1"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-<code><a><img height="50" src="pythonlogo.png"></a></code>
-<code><a><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a><img height="50" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699251-icon-24-file-sql-128.png"></a></code>
+### 📚  Languages:
 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+</p>
 <br/><br/>
+
+### 🏗️ Frameworks / 📙 Libraries
+<p>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Many More" src="https://img.shields.io/badge/...-And%20More-yellowgreen?style=for-the-badge&logo=GitHub-Sponsors"/>
+</p>
 
 <!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshu887&theme=xcode) -->
 
