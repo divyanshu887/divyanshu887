@@ -57,10 +57,10 @@
 <!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=divyanshu887&theme=xcode) -->
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyanshu887&show_icons=true&theme=synthwave" alt="divyanshu887" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=divyanshu887&show_icons=true&theme=synthwave" alt="divyanshu887" /> </p> -->
 
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu887&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887&theme=synthwave">
+<!-- <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu887&theme=synthwave"> -->
+<!-- <img align="centre" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu887&theme=synthwave"> -->
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=divyanshu887&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=divyanshu887&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB"> -->
